@@ -1,4 +1,4 @@
-# vinay-vemuri-mandalorian-translator
+# Mandalorian-translator
 
 This is a javascript app that translates English to Mandalorian
 
